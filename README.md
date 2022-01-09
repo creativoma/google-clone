@@ -8,17 +8,15 @@ Este proyecto clon simula al buscador Google. Construido a partir del curso de H
 
 ## Enlaces
 
-- URL del repositorio: [github.com/creativoma/clone-google] (https://github.com/creativoma/clone-google)
-- URL del sitio en vivo: [clone-google-six.vercel.app] (http://clone-google-six.vercel.app/)
+- URL del repositorio: https://github.com/creativoma/clone-google
+- URL del sitio en vivo: http://clone-google-six.vercel.app/
 
 ## Construido con
 
-- HTML
-- CSS
-- Flexbox
-- Grid
+- HTML y CSS
+- Flexbox y Grid
 
 ## Autor
 
-- Sitio web - [creativoma] (https://creativoma.com/)
-- Twitter - [@dev_creativoma] (https://twitter.com/MarianoNobell)
+- Sitio web: https://creativoma.com/
+- Twitter: https://twitter.com/MarianoNobell
