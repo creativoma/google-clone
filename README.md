@@ -8,7 +8,7 @@ Este proyecto clon simula al buscador Google. Construido a partir del curso de H
 
 ## Enlaces
 
-- URL del repositorio: https://github.com/creativoma/clone-google
+- URL del repositorio: https://github.com/creativoma/google-clone
 - URL del sitio en vivo: http://clone-google-six.vercel.app/
 
 ## Construido con
